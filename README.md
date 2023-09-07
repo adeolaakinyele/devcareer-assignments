@@ -1,1 +1,1 @@
-# devcareera-ssignments
+# devcareer-assignments
